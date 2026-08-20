@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="period.tab" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="300" y="-17" type="curve"/>
+      <point x="363" y="-17"/>
+      <point x="410" y="25"/>
+      <point x="410" y="91" type="curve"/>
+      <point x="410" y="157"/>
+      <point x="363" y="199"/>
+      <point x="300" y="199" type="curve"/>
+      <point x="237" y="199"/>
+      <point x="190" y="157"/>
+      <point x="190" y="91" type="curve"/>
+      <point x="190" y="25"/>
+      <point x="237" y="-17"/>
+    </contour>
+  </outline>
+</glyph>

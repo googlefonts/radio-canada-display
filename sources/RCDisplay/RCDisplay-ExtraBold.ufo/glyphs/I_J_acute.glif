@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="IJacute" format="2">
+  <advance width="881"/>
+  <outline>
+    <contour>
+      <point x="664" y="735" type="line"/>
+      <point x="806" y="735" type="line"/>
+      <point x="964" y="854" type="line"/>
+      <point x="767" y="854" type="line"/>
+    </contour>
+    <contour>
+      <point x="73" y="735" type="line"/>
+      <point x="215" y="735" type="line"/>
+      <point x="373" y="854" type="line"/>
+      <point x="176" y="854" type="line"/>
+    </contour>
+    <contour>
+      <point x="52" y="0" type="line"/>
+      <point x="248" y="0" type="line"/>
+      <point x="248" y="690" type="line"/>
+      <point x="52" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="273" y="233" type="line"/>
+      <point x="300" y="82"/>
+      <point x="389" y="-17"/>
+      <point x="558" y="-17" type="curve"/>
+      <point x="737" y="-17"/>
+      <point x="839" y="91"/>
+      <point x="839" y="249" type="curve"/>
+      <point x="839" y="690" type="line"/>
+      <point x="643" y="690" type="line"/>
+      <point x="643" y="263" type="line"/>
+      <point x="643" y="204"/>
+      <point x="610" y="165"/>
+      <point x="561" y="165" type="curve"/>
+      <point x="508" y="165"/>
+      <point x="477" y="209"/>
+      <point x="462" y="285" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

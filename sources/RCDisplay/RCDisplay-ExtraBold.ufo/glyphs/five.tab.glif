@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five.tab" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="54" y="255" type="line"/>
+      <point x="229" y="255" type="line"/>
+      <point x="235" y="292"/>
+      <point x="266" y="319"/>
+      <point x="309" y="319" type="curve"/>
+      <point x="353" y="319"/>
+      <point x="387" y="289"/>
+      <point x="387" y="238" type="curve"/>
+      <point x="387" y="186"/>
+      <point x="352" y="157"/>
+      <point x="306" y="157" type="curve"/>
+      <point x="265" y="157"/>
+      <point x="235" y="180"/>
+      <point x="228" y="220" type="curve"/>
+      <point x="36" y="181" type="line"/>
+      <point x="61" y="58"/>
+      <point x="160" y="-17"/>
+      <point x="305" y="-17" type="curve"/>
+      <point x="465" y="-17"/>
+      <point x="588" y="72"/>
+      <point x="588" y="235" type="curve"/>
+      <point x="588" y="369"/>
+      <point x="500" y="463"/>
+      <point x="386" y="463" type="curve"/>
+      <point x="305" y="463"/>
+      <point x="238" y="418"/>
+      <point x="221" y="337" type="curve"/>
+      <point x="228" y="331" type="line"/>
+      <point x="260" y="638" type="line"/>
+      <point x="152" y="523" type="line"/>
+      <point x="545" y="523" type="line"/>
+      <point x="545" y="690" type="line"/>
+      <point x="88" y="690" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1313,0.9997,0.0236,1</string>
+    </dict>
+  </lib>
+</glyph>

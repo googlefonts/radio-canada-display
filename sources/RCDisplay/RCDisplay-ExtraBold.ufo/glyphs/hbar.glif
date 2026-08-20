@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hbar" format="2">
+  <advance width="606"/>
+  <unicode hex="0127"/>
+  <outline>
+    <contour>
+      <point x="300" y="657" type="line"/>
+      <point x="13" y="657" type="line"/>
+      <point x="13" y="535" type="line"/>
+      <point x="300" y="535" type="line"/>
+    </contour>
+    <contour>
+      <point x="53" y="0" type="line"/>
+      <point x="242" y="0" type="line"/>
+      <point x="242" y="715" type="line"/>
+      <point x="53" y="715" type="line"/>
+    </contour>
+    <contour>
+      <point x="374" y="300" type="curve"/>
+      <point x="374" y="0" type="line"/>
+      <point x="563" y="0" type="line"/>
+      <point x="563" y="336" type="line"/>
+      <point x="563" y="471"/>
+      <point x="494" y="547"/>
+      <point x="390" y="547" type="curve"/>
+      <point x="280" y="547"/>
+      <point x="217" y="462"/>
+      <point x="217" y="300" type="curve"/>
+      <point x="242" y="300" type="line"/>
+      <point x="242" y="353"/>
+      <point x="266" y="380"/>
+      <point x="308" y="380" type="curve"/>
+      <point x="350" y="380"/>
+      <point x="374" y="353"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>
