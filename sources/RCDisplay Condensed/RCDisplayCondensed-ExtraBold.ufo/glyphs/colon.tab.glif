@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon.tab" format="2">
+  <advance width="530"/>
+  <outline>
+    <contour>
+      <point x="265" y="-12" type="curve"/>
+      <point x="323" y="-12"/>
+      <point x="366" y="31"/>
+      <point x="366" y="92" type="curve"/>
+      <point x="366" y="153"/>
+      <point x="323" y="195"/>
+      <point x="265" y="195" type="curve"/>
+      <point x="207" y="195"/>
+      <point x="164" y="153"/>
+      <point x="164" y="92" type="curve"/>
+      <point x="164" y="31"/>
+      <point x="207" y="-12"/>
+    </contour>
+    <contour>
+      <point x="265" y="336" type="curve"/>
+      <point x="323" y="336"/>
+      <point x="366" y="378"/>
+      <point x="366" y="439" type="curve"/>
+      <point x="366" y="500"/>
+      <point x="323" y="543"/>
+      <point x="265" y="543" type="curve"/>
+      <point x="207" y="543"/>
+      <point x="164" y="500"/>
+      <point x="164" y="439" type="curve"/>
+      <point x="164" y="378"/>
+      <point x="207" y="336"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1313,0.9997,0.0236,1</string>
+    </dict>
+  </lib>
+</glyph>

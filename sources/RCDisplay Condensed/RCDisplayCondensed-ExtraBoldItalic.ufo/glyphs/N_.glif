@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N" format="2">
+  <advance width="544"/>
+  <unicode hex="004E"/>
+  <anchor x="423" y="690" name="top"/>
+  <anchor x="276" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="442" y="690" type="line"/>
+      <point x="301" y="690" type="line"/>
+      <point x="249" y="0" type="line"/>
+      <point x="390" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="37" y="0" type="line"/>
+      <point x="179" y="0" type="line"/>
+      <point x="326" y="690" type="line"/>
+      <point x="184" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="365" y="0" type="line"/>
+      <point x="507" y="0" type="line"/>
+      <point x="654" y="690" type="line"/>
+      <point x="512" y="690" type="line"/>
+    </contour>
+  </outline>
+</glyph>
