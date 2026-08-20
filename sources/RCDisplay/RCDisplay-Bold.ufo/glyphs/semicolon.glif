@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semicolon" format="2">
+  <advance width="276"/>
+  <unicode hex="003B"/>
+  <outline>
+    <contour>
+      <point x="209" y="-25" type="line" smooth="yes"/>
+      <point x="220" y="7"/>
+      <point x="228" y="35"/>
+      <point x="228" y="65" type="curve"/>
+      <point x="228" y="128"/>
+      <point x="188" y="164"/>
+      <point x="137" y="164" type="curve"/>
+      <point x="86" y="164"/>
+      <point x="48" y="128"/>
+      <point x="48" y="74" type="curve"/>
+      <point x="48" y="21"/>
+      <point x="86" y="-14"/>
+      <point x="137" y="-14" type="curve"/>
+      <point x="144" y="-14"/>
+      <point x="154" y="-12"/>
+      <point x="164" y="-9" type="curve"/>
+      <point x="115" y="9" type="line"/>
+      <point x="85" y="-150" type="line"/>
+      <point x="167" y="-150" type="line"/>
+    </contour>
+    <contour>
+      <point x="137" y="366" type="curve"/>
+      <point x="188" y="366"/>
+      <point x="228" y="402"/>
+      <point x="228" y="455" type="curve"/>
+      <point x="228" y="509"/>
+      <point x="188" y="544"/>
+      <point x="137" y="544" type="curve"/>
+      <point x="86" y="544"/>
+      <point x="48" y="509"/>
+      <point x="48" y="455" type="curve"/>
+      <point x="48" y="402"/>
+      <point x="86" y="366"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

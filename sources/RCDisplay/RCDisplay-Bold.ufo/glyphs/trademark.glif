@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="trademark" format="2">
+  <advance width="717"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="90" y="384" type="line"/>
+      <point x="181" y="384" type="line"/>
+      <point x="181" y="690" type="line"/>
+      <point x="90" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="690" type="line"/>
+      <point x="10" y="603" type="line"/>
+      <point x="260" y="603" type="line"/>
+      <point x="260" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="455" y="690" type="line"/>
+      <point x="365" y="690" type="line"/>
+      <point x="417" y="384" type="line"/>
+      <point x="488" y="384" type="line"/>
+    </contour>
+    <contour>
+      <point x="290" y="384" type="line"/>
+      <point x="377" y="384" type="line"/>
+      <point x="377" y="690" type="line"/>
+      <point x="290" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="513" y="690" type="line"/>
+      <point x="472" y="384" type="line"/>
+      <point x="543" y="384" type="line"/>
+      <point x="599" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="586" y="384" type="line"/>
+      <point x="674" y="384" type="line"/>
+      <point x="674" y="690" type="line"/>
+      <point x="586" y="690" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1313,0.9997,0.0236,1</string>
+    </dict>
+  </lib>
+</glyph>
