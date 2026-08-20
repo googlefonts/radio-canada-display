@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.tab" format="2">
+  <advance width="600"/>
+  <note>
+Réduire masse dans connection
+</note>
+  <outline>
+    <contour>
+      <point x="248" y="0" type="line"/>
+      <point x="376" y="0" type="line"/>
+      <point x="376" y="690" type="line"/>
+      <point x="277" y="690" type="line"/>
+      <point x="248" y="547" type="line"/>
+    </contour>
+    <contour>
+      <point x="87" y="482" type="line"/>
+      <point x="301" y="482" type="line"/>
+      <point x="277" y="690" type="line"/>
+      <point x="259" y="607"/>
+      <point x="217" y="579"/>
+      <point x="87" y="571" type="curve"/>
+    </contour>
+    <contour>
+      <point x="532" y="0" type="line"/>
+      <point x="532" y="117" type="line"/>
+      <point x="75" y="117" type="line"/>
+      <point x="75" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

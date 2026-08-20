@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macron.cap" format="2">
+  <advance width="497"/>
+  <anchor x="395" y="690" name="_top"/>
+  <outline>
+    <contour>
+      <point x="245" y="745" type="line"/>
+      <point x="567" y="745" type="line"/>
+      <point x="589" y="843" type="line"/>
+      <point x="266" y="843" type="line"/>
+    </contour>
+  </outline>
+</glyph>

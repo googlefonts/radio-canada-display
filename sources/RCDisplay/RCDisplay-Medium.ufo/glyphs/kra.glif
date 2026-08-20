@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kra" format="2">
+  <advance width="530"/>
+  <unicode hex="0138"/>
+  <outline>
+    <contour>
+      <point x="218" y="238" type="line"/>
+      <point x="380" y="0" type="line"/>
+      <point x="526" y="0" type="line"/>
+      <point x="296" y="326" type="line"/>
+    </contour>
+    <contour>
+      <point x="174" y="140" type="line"/>
+      <point x="511" y="530" type="line"/>
+      <point x="365" y="530" type="line"/>
+      <point x="174" y="293" type="line"/>
+    </contour>
+    <contour>
+      <point x="59" y="0" type="line"/>
+      <point x="182" y="0" type="line"/>
+      <point x="182" y="530" type="line"/>
+      <point x="59" y="530" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1313,0.9997,0.0236,1</string>
+    </dict>
+  </lib>
+</glyph>

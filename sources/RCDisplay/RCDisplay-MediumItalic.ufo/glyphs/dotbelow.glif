@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotbelow" format="2">
+  <advance width="498"/>
+  <anchor x="248" y="0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="216" y="-196" type="curve"/>
+      <point x="257" y="-196"/>
+      <point x="289" y="-167"/>
+      <point x="289" y="-124" type="curve"/>
+      <point x="289" y="-86"/>
+      <point x="264" y="-61"/>
+      <point x="225" y="-61" type="curve"/>
+      <point x="184" y="-61"/>
+      <point x="153" y="-90"/>
+      <point x="153" y="-135" type="curve"/>
+      <point x="153" y="-172"/>
+      <point x="178" y="-196"/>
+    </contour>
+  </outline>
+</glyph>

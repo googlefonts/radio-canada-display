@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccent.cap" format="2">
+  <advance width="500"/>
+  <anchor x="250" y="690" name="_top"/>
+  <outline>
+    <contour>
+      <point x="250" y="738" type="curve" smooth="yes"/>
+      <point x="289" y="738"/>
+      <point x="319" y="765"/>
+      <point x="319" y="805" type="curve"/>
+      <point x="319" y="846"/>
+      <point x="289" y="872"/>
+      <point x="250" y="872" type="curve" smooth="yes"/>
+      <point x="211" y="872"/>
+      <point x="181" y="846"/>
+      <point x="181" y="805" type="curve"/>
+      <point x="181" y="765"/>
+      <point x="211" y="738"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Euro" format="2">
+  <advance width="588"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <contour>
+      <point x="81" y="313" type="line"/>
+      <point x="61" y="220" type="line"/>
+      <point x="431" y="220" type="line"/>
+      <point x="461" y="313" type="line"/>
+    </contour>
+    <contour>
+      <point x="111" y="455" type="line"/>
+      <point x="91" y="362" type="line"/>
+      <point x="477" y="362" type="line"/>
+      <point x="507" y="455" type="line"/>
+    </contour>
+    <contour>
+      <point x="482" y="210" type="line"/>
+      <point x="454" y="141"/>
+      <point x="412" y="103"/>
+      <point x="355" y="103" type="curve"/>
+      <point x="292" y="103"/>
+      <point x="267" y="148"/>
+      <point x="267" y="237" type="curve"/>
+      <point x="267" y="439"/>
+      <point x="351" y="587"/>
+      <point x="452" y="587" type="curve"/>
+      <point x="509" y="587"/>
+      <point x="535" y="549"/>
+      <point x="541" y="485" type="curve"/>
+      <point x="666" y="513" type="line"/>
+      <point x="654" y="636"/>
+      <point x="575" y="702"/>
+      <point x="465" y="702" type="curve"/>
+      <point x="277" y="702"/>
+      <point x="137" y="499"/>
+      <point x="137" y="232" type="curve"/>
+      <point x="137" y="71"/>
+      <point x="214" y="-12"/>
+      <point x="345" y="-12" type="curve"/>
+      <point x="469" y="-12"/>
+      <point x="552" y="54"/>
+      <point x="599" y="179" type="curve"/>
+    </contour>
+  </outline>
+</glyph>
