@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.tab" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="409" y="528" type="curve"/>
+      <point x="440" y="528"/>
+      <point x="459" y="502"/>
+      <point x="459" y="433" type="curve"/>
+      <point x="459" y="303"/>
+      <point x="400" y="162"/>
+      <point x="337" y="162" type="curve"/>
+      <point x="306" y="162"/>
+      <point x="287" y="188"/>
+      <point x="287" y="256" type="curve"/>
+      <point x="287" y="387"/>
+      <point x="346" y="528"/>
+    </contour>
+    <contour>
+      <point x="325" y="-17" type="curve"/>
+      <point x="527" y="-17"/>
+      <point x="660" y="209"/>
+      <point x="660" y="443" type="curve"/>
+      <point x="660" y="606"/>
+      <point x="562" y="707"/>
+      <point x="421" y="707" type="curve"/>
+      <point x="219" y="707"/>
+      <point x="86" y="481"/>
+      <point x="86" y="246" type="curve"/>
+      <point x="86" y="84"/>
+      <point x="184" y="-17"/>
+    </contour>
+  </outline>
+</glyph>
