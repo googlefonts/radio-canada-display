@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine.tab" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="370" y="379" type="curve"/>
+      <point x="315" y="379"/>
+      <point x="281" y="410"/>
+      <point x="281" y="459" type="curve"/>
+      <point x="281" y="516"/>
+      <point x="326" y="568"/>
+      <point x="399" y="568" type="curve"/>
+      <point x="455" y="568"/>
+      <point x="489" y="537"/>
+      <point x="489" y="488" type="curve"/>
+      <point x="489" y="431"/>
+      <point x="444" y="379"/>
+    </contour>
+    <contour>
+      <point x="483" y="404" type="line"/>
+      <point x="466" y="258"/>
+      <point x="410" y="128"/>
+      <point x="297" y="128" type="curve"/>
+      <point x="248" y="128"/>
+      <point x="216" y="149"/>
+      <point x="197" y="194" type="curve"/>
+      <point x="71" y="118" type="line"/>
+      <point x="111" y="28"/>
+      <point x="185" y="-14"/>
+      <point x="284" y="-14" type="curve"/>
+      <point x="494" y="-14"/>
+      <point x="645" y="209"/>
+      <point x="645" y="461" type="curve"/>
+      <point x="645" y="614"/>
+      <point x="557" y="704"/>
+      <point x="416" y="704" type="curve"/>
+      <point x="233" y="704"/>
+      <point x="125" y="576"/>
+      <point x="125" y="433" type="curve"/>
+      <point x="125" y="321"/>
+      <point x="205" y="250"/>
+      <point x="300" y="250" type="curve"/>
+      <point x="389" y="250"/>
+      <point x="473" y="299"/>
+      <point x="503" y="427" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semicolon.tab" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="368" y="-25" type="line" smooth="yes"/>
+      <point x="386" y="6"/>
+      <point x="404" y="47"/>
+      <point x="404" y="82" type="curve"/>
+      <point x="404" y="130"/>
+      <point x="373" y="163"/>
+      <point x="320" y="163" type="curve"/>
+      <point x="268" y="163"/>
+      <point x="225" y="124"/>
+      <point x="225" y="66" type="curve"/>
+      <point x="225" y="17"/>
+      <point x="257" y="-14"/>
+      <point x="308" y="-14" type="curve"/>
+      <point x="318" y="-14"/>
+      <point x="328" y="-13"/>
+      <point x="337" y="-10" type="curve"/>
+      <point x="278" y="9" type="line"/>
+      <point x="214" y="-150" type="line"/>
+      <point x="296" y="-150" type="line"/>
+    </contour>
+    <contour>
+      <point x="391" y="367" type="curve"/>
+      <point x="444" y="367"/>
+      <point x="487" y="405"/>
+      <point x="487" y="463" type="curve"/>
+      <point x="487" y="512"/>
+      <point x="455" y="544"/>
+      <point x="403" y="544" type="curve"/>
+      <point x="350" y="544"/>
+      <point x="308" y="506"/>
+      <point x="308" y="447" type="curve"/>
+      <point x="308" y="398"/>
+      <point x="339" y="367"/>
+    </contour>
+  </outline>
+</glyph>
