@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis" format="2">
+  <advance width="500"/>
+  <unicode hex="00A8"/>
+  <anchor x="363" y="530" name="_top"/>
+  <outline>
+    <contour>
+      <point x="303" y="607" type="curve"/>
+      <point x="332" y="607"/>
+      <point x="355" y="629"/>
+      <point x="355" y="662" type="curve"/>
+      <point x="355" y="691"/>
+      <point x="337" y="710"/>
+      <point x="309" y="710" type="curve"/>
+      <point x="280" y="710"/>
+      <point x="257" y="687"/>
+      <point x="257" y="654" type="curve"/>
+      <point x="257" y="626"/>
+      <point x="276" y="607"/>
+    </contour>
+    <contour>
+      <point x="470" y="607" type="curve"/>
+      <point x="499" y="607"/>
+      <point x="522" y="629"/>
+      <point x="522" y="662" type="curve"/>
+      <point x="522" y="691"/>
+      <point x="503" y="710"/>
+      <point x="475" y="710" type="curve"/>
+      <point x="447" y="710"/>
+      <point x="424" y="687"/>
+      <point x="424" y="654" type="curve"/>
+      <point x="424" y="626"/>
+      <point x="442" y="607"/>
+    </contour>
+  </outline>
+</glyph>

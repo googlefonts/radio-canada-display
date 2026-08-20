@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mu.math" format="2">
+  <advance width="446"/>
+  <unicode hex="00B5"/>
+  <outline>
+    <contour>
+      <point x="397" y="530" type="line"/>
+      <point x="304" y="530" type="line"/>
+      <point x="304" y="0" type="line"/>
+      <point x="397" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="142" y="-175" type="line"/>
+      <point x="142" y="530" type="line"/>
+      <point x="50" y="530" type="line"/>
+      <point x="50" y="-175" type="line"/>
+    </contour>
+    <contour>
+      <point x="116" y="187" type="line"/>
+      <point x="116" y="72"/>
+      <point x="163" y="-8"/>
+      <point x="223" y="-8" type="curve"/>
+      <point x="282" y="-8"/>
+      <point x="329" y="75"/>
+      <point x="329" y="193" type="curve"/>
+      <point x="304" y="213" type="line"/>
+      <point x="304" y="122"/>
+      <point x="267" y="74"/>
+      <point x="224" y="74" type="curve"/>
+      <point x="180" y="74"/>
+      <point x="142" y="122"/>
+      <point x="142" y="213" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1313,0.9997,0.0236,1</string>
+    </dict>
+  </lib>
+</glyph>

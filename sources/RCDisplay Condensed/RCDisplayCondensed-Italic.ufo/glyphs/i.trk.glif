@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i.trk" format="2">
+  <advance width="191"/>
+  <anchor x="96" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="50" y="0" type="line"/>
+      <point x="142" y="0" type="line"/>
+      <point x="255" y="530" type="line"/>
+      <point x="163" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="233" y="604" type="curve"/>
+      <point x="269" y="604"/>
+      <point x="297" y="630"/>
+      <point x="297" y="669" type="curve"/>
+      <point x="297" y="702"/>
+      <point x="275" y="725"/>
+      <point x="241" y="725" type="curve"/>
+      <point x="206" y="725"/>
+      <point x="177" y="698"/>
+      <point x="177" y="659" type="curve"/>
+      <point x="177" y="626"/>
+      <point x="199" y="604"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

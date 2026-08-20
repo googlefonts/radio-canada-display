@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ring_acute.cap" format="2">
+  <advance width="500"/>
+  <anchor x="250" y="690" name="_top"/>
+  <outline>
+    <contour>
+      <point x="212" y="926" type="line"/>
+      <point x="285" y="926" type="line"/>
+      <point x="402" y="1017" type="line"/>
+      <point x="298" y="1017" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="785" type="curve" smooth="yes"/>
+      <point x="230" y="785"/>
+      <point x="217" y="799"/>
+      <point x="217" y="821" type="curve" smooth="yes"/>
+      <point x="217" y="844"/>
+      <point x="230" y="858"/>
+      <point x="250" y="858" type="curve" smooth="yes"/>
+      <point x="269" y="858"/>
+      <point x="283" y="844"/>
+      <point x="283" y="821" type="curve" smooth="yes"/>
+      <point x="283" y="799"/>
+      <point x="269" y="785"/>
+    </contour>
+    <contour>
+      <point x="250" y="735" type="curve" smooth="yes"/>
+      <point x="299" y="735"/>
+      <point x="339" y="770"/>
+      <point x="339" y="821" type="curve" smooth="yes"/>
+      <point x="339" y="873"/>
+      <point x="299" y="908"/>
+      <point x="250" y="908" type="curve" smooth="yes"/>
+      <point x="201" y="908"/>
+      <point x="161" y="873"/>
+      <point x="161" y="821" type="curve" smooth="yes"/>
+      <point x="161" y="770"/>
+      <point x="201" y="735"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1313,0.9997,0.0236,1</string>
+    </dict>
+  </lib>
+</glyph>

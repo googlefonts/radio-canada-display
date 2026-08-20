@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iogonek" format="2">
+  <advance width="204"/>
+  <unicode hex="012E"/>
+  <outline>
+    <contour>
+      <point x="79" y="8" type="line"/>
+      <point x="18" y="-28"/>
+      <point x="-5" y="-65"/>
+      <point x="-5" y="-105" type="curve"/>
+      <point x="-5" y="-151"/>
+      <point x="24" y="-184"/>
+      <point x="82" y="-184" type="curve"/>
+      <point x="108" y="-184"/>
+      <point x="130" y="-177"/>
+      <point x="151" y="-164" type="curve"/>
+      <point x="138" y="-103" type="line"/>
+      <point x="122" y="-113"/>
+      <point x="109" y="-117"/>
+      <point x="97" y="-117" type="curve"/>
+      <point x="80" y="-117"/>
+      <point x="66" y="-108"/>
+      <point x="66" y="-88" type="curve"/>
+      <point x="66" y="-61"/>
+      <point x="93" y="-28"/>
+      <point x="151" y="0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="54" y="0" type="line"/>
+      <point x="151" y="0" type="line"/>
+      <point x="151" y="690" type="line"/>
+      <point x="54" y="690" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1313,0.9997,0.0236,1</string>
+    </dict>
+  </lib>
+</glyph>
