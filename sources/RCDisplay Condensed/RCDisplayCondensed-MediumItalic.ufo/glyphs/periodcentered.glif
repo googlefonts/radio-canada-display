@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="periodcentered" format="2">
+  <advance width="206"/>
+  <unicode hex="00B7"/>
+  <outline>
+    <contour>
+      <point x="162" y="226" type="curve"/>
+      <point x="202" y="226"/>
+      <point x="234" y="257"/>
+      <point x="234" y="304" type="curve"/>
+      <point x="234" y="344"/>
+      <point x="208" y="371"/>
+      <point x="169" y="371" type="curve"/>
+      <point x="130" y="371"/>
+      <point x="98" y="339"/>
+      <point x="98" y="291" type="curve"/>
+      <point x="98" y="251"/>
+      <point x="123" y="226"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

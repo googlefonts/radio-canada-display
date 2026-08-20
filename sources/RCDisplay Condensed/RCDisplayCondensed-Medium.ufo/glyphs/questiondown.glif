@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="questiondown" format="2">
+  <advance width="472"/>
+  <unicode hex="00BF"/>
+  <outline>
+    <contour>
+      <point x="299" y="300" type="line"/>
+      <point x="200" y="300" type="line"/>
+      <point x="199" y="275" type="line" smooth="yes"/>
+      <point x="197" y="163"/>
+      <point x="37" y="172"/>
+      <point x="37" y="8" type="curve"/>
+      <point x="37" y="-102"/>
+      <point x="112" y="-169"/>
+      <point x="224" y="-169" type="curve"/>
+      <point x="335" y="-169"/>
+      <point x="419" y="-103"/>
+      <point x="436" y="30" type="curve"/>
+      <point x="320" y="45" type="line"/>
+      <point x="309" y="-26"/>
+      <point x="278" y="-61"/>
+      <point x="230" y="-61" type="curve"/>
+      <point x="184" y="-61"/>
+      <point x="159" y="-29"/>
+      <point x="159" y="12" type="curve"/>
+      <point x="157" y="109"/>
+      <point x="308" y="116"/>
+      <point x="301" y="270" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="248" y="539" type="curve"/>
+      <point x="208" y="539"/>
+      <point x="179" y="509"/>
+      <point x="179" y="467" type="curve"/>
+      <point x="179" y="424"/>
+      <point x="208" y="395"/>
+      <point x="248" y="395" type="curve"/>
+      <point x="288" y="395"/>
+      <point x="317" y="424"/>
+      <point x="317" y="467" type="curve"/>
+      <point x="317" y="509"/>
+      <point x="288" y="539"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

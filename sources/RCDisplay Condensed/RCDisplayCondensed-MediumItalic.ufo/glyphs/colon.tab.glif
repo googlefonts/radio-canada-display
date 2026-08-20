@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon.tab" format="2">
+  <advance width="530"/>
+  <outline>
+    <contour>
+      <point x="274" y="-9" type="curve"/>
+      <point x="314" y="-9"/>
+      <point x="346" y="22"/>
+      <point x="346" y="70" type="curve"/>
+      <point x="346" y="109"/>
+      <point x="320" y="135"/>
+      <point x="281" y="135" type="curve"/>
+      <point x="242" y="135"/>
+      <point x="210" y="104"/>
+      <point x="210" y="56" type="curve"/>
+      <point x="210" y="17"/>
+      <point x="235" y="-9"/>
+    </contour>
+    <contour>
+      <point x="361" y="395" type="curve"/>
+      <point x="401" y="395"/>
+      <point x="433" y="426"/>
+      <point x="433" y="473" type="curve"/>
+      <point x="433" y="513"/>
+      <point x="407" y="539"/>
+      <point x="368" y="539" type="curve"/>
+      <point x="329" y="539"/>
+      <point x="296" y="508"/>
+      <point x="296" y="460" type="curve"/>
+      <point x="296" y="420"/>
+      <point x="322" y="395"/>
+    </contour>
+  </outline>
+</glyph>

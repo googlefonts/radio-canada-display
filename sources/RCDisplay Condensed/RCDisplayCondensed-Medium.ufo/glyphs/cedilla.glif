@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedilla" format="2">
+  <advance width="500"/>
+  <unicode hex="00B8"/>
+  <anchor x="250" y="0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="258" y="-32" type="curve"/>
+      <point x="267" y="-43" type="line"/>
+      <point x="271" y="9" type="line"/>
+      <point x="215" y="11" type="line"/>
+      <point x="208" y="-76" type="line"/>
+      <point x="215" y="-74"/>
+      <point x="220" y="-73"/>
+      <point x="227" y="-73" type="curve"/>
+      <point x="249" y="-73"/>
+      <point x="260" y="-82"/>
+      <point x="260" y="-97" type="curve"/>
+      <point x="260" y="-112"/>
+      <point x="249" y="-120"/>
+      <point x="229" y="-120" type="curve"/>
+      <point x="216" y="-120"/>
+      <point x="204" y="-117"/>
+      <point x="188" y="-112" type="curve"/>
+      <point x="176" y="-173" type="line"/>
+      <point x="198" y="-182"/>
+      <point x="219" y="-186"/>
+      <point x="241" y="-186" type="curve"/>
+      <point x="306" y="-186"/>
+      <point x="333" y="-150"/>
+      <point x="333" y="-108" type="curve"/>
+      <point x="333" y="-62"/>
+      <point x="303" y="-33"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1313,0.9997,0.0236,1</string>
+    </dict>
+  </lib>
+</glyph>

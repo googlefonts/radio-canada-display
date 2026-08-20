@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine.tab" format="2">
+  <advance width="530"/>
+  <outline>
+    <contour>
+      <point x="343" y="441" type="line"/>
+      <point x="346" y="412"/>
+      <point x="346" y="382"/>
+      <point x="346" y="340" type="curve" smooth="yes"/>
+      <point x="346" y="166"/>
+      <point x="301" y="105"/>
+      <point x="237" y="105" type="curve"/>
+      <point x="197" y="105"/>
+      <point x="168" y="129"/>
+      <point x="148" y="185" type="curve"/>
+      <point x="69" y="110" type="line"/>
+      <point x="107" y="26"/>
+      <point x="172" y="-9"/>
+      <point x="243" y="-9" type="curve"/>
+      <point x="371" y="-9"/>
+      <point x="465" y="101"/>
+      <point x="465" y="360" type="curve" smooth="yes"/>
+      <point x="465" y="607"/>
+      <point x="376" y="699"/>
+      <point x="253" y="699" type="curve"/>
+      <point x="139" y="699"/>
+      <point x="59" y="612"/>
+      <point x="59" y="471" type="curve"/>
+      <point x="59" y="333"/>
+      <point x="131" y="258"/>
+      <point x="215" y="258" type="curve"/>
+      <point x="288" y="258"/>
+      <point x="353" y="306"/>
+      <point x="358" y="430" type="curve"/>
+    </contour>
+    <contour>
+      <point x="253" y="355" type="curve"/>
+      <point x="209" y="355"/>
+      <point x="180" y="395"/>
+      <point x="180" y="476" type="curve"/>
+      <point x="180" y="558"/>
+      <point x="212" y="597"/>
+      <point x="254" y="597" type="curve"/>
+      <point x="301" y="597"/>
+      <point x="328" y="551"/>
+      <point x="328" y="476" type="curve"/>
+      <point x="328" y="392"/>
+      <point x="296" y="355"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1313,0.9997,0.0236,1</string>
+    </dict>
+  </lib>
+</glyph>
