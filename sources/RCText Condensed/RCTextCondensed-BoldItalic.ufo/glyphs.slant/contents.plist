@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>c</key>
+    <string>c.glif</string>
+    <key>colon</key>
+    <string>colon.glif</string>
+    <key>comma</key>
+    <string>comma.glif</string>
+    <key>degree</key>
+    <string>degree.glif</string>
+    <key>exclam</key>
+    <string>exclam.glif</string>
+    <key>exclamdown</key>
+    <string>exclamdown.glif</string>
+    <key>percent</key>
+    <string>percent.glif</string>
+    <key>period</key>
+    <string>period.glif</string>
+    <key>question</key>
+    <string>question.glif</string>
+    <key>questiondown</key>
+    <string>questiondown.glif</string>
+    <key>quoteleft</key>
+    <string>quoteleft.glif</string>
+    <key>quoteright</key>
+    <string>quoteright.glif</string>
+    <key>semicolon</key>
+    <string>semicolon.glif</string>
+  </dict>
+</plist>

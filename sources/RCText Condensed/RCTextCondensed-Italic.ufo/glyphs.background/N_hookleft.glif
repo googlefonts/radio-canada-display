@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nhookleft" format="2">
+  <advance width="594"/>
+  <outline>
+    <contour>
+      <point x="-65.19739829225387" y="-175" type="line"/>
+      <point x="-48.197398292253865" y="-186"/>
+      <point x="-24.197398292253865" y="-195"/>
+      <point x="3.8026017077461347" y="-195" type="curve"/>
+      <point x="80.80260170774613" y="-195"/>
+      <point x="133.80260170774613" y="-154"/>
+      <point x="159.80260170774613" y="-34" type="curve" smooth="yes"/>
+      <point x="312.80260170774613" y="690" type="line"/>
+      <point x="228.80260170774613" y="690" type="line"/>
+      <point x="76.80260170774613" y="-32" type="line" smooth="yes"/>
+      <point x="63.802601707746135" y="-96"/>
+      <point x="36.802601707746135" y="-119"/>
+      <point x="2.8026017077461347" y="-119" type="curve"/>
+      <point x="-12.197398292253865" y="-119"/>
+      <point x="-27.197398292253865" y="-114"/>
+      <point x="-39.197398292253865" y="-106" type="curve"/>
+    </contour>
+    <contour>
+      <point x="258.80260170774613" y="690" type="line"/>
+      <point x="408.80260170774613" y="0" type="line"/>
+      <point x="490.80260170774613" y="0" type="line"/>
+      <point x="341.80260170774613" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="432.80260170774613" y="0" type="line"/>
+      <point x="516.8026017077461" y="0" type="line"/>
+      <point x="663.8026017077461" y="690" type="line"/>
+      <point x="579.8026017077461" y="690" type="line"/>
+    </contour>
+  </outline>
+</glyph>

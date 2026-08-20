@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ring_acute" format="2">
+  <advance width="500"/>
+  <outline>
+    <component base="ring"/>
+  </outline>
+</glyph>

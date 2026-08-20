@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_f" format="2">
+  <advance width="586"/>
+  <outline>
+    <contour>
+      <point x="382.5876699431599" y="0" type="line"/>
+      <point x="470.5876699431599" y="0" type="line"/>
+      <point x="587.5876699431599" y="557" type="line" smooth="yes"/>
+      <point x="599.5876699431599" y="622"/>
+      <point x="629.5876699431599" y="654"/>
+      <point x="667.5876699431599" y="654" type="curve"/>
+      <point x="687.5876699431599" y="654"/>
+      <point x="707.5876699431599" y="650"/>
+      <point x="725.5876699431599" y="639" type="curve"/>
+      <point x="755.5876699431599" y="707" type="line"/>
+      <point x="732.5876699431599" y="720"/>
+      <point x="701.5876699431599" y="730"/>
+      <point x="672.5876699431599" y="730" type="curve"/>
+      <point x="584.5876699431599" y="730"/>
+      <point x="524.5876699431599" y="673"/>
+      <point x="500.5876699431599" y="564" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>
