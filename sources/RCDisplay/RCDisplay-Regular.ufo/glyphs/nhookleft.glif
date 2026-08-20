@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nhookleft" format="2">
+  <advance width="573"/>
+  <unicode hex="0272"/>
+  <outline>
+    <contour>
+      <point x="161" y="-11" type="curve" smooth="yes"/>
+      <point x="161" y="530" type="line"/>
+      <point x="66" y="530" type="line"/>
+      <point x="66" y="-9" type="line" smooth="yes"/>
+      <point x="66" y="-74"/>
+      <point x="40" y="-98"/>
+      <point x="-17" y="-98" type="curve" smooth="yes"/>
+      <point x="-33" y="-98"/>
+      <point x="-54" y="-94"/>
+      <point x="-72" y="-87" type="curve"/>
+      <point x="-72" y="-175" type="line"/>
+      <point x="-50" y="-182"/>
+      <point x="-27" y="-185"/>
+      <point x="0" y="-185" type="curve" smooth="yes"/>
+      <point x="105" y="-185"/>
+      <point x="161" y="-123"/>
+    </contour>
+    <contour>
+      <point x="412" y="310" type="curve"/>
+      <point x="412" y="0" type="line"/>
+      <point x="507" y="0" type="line"/>
+      <point x="507" y="332" type="line"/>
+      <point x="507" y="460"/>
+      <point x="429" y="540"/>
+      <point x="322" y="540" type="curve"/>
+      <point x="213" y="540"/>
+      <point x="129" y="451"/>
+      <point x="129" y="310" type="curve"/>
+      <point x="161" y="310" type="line"/>
+      <point x="161" y="406"/>
+      <point x="219" y="456"/>
+      <point x="287" y="456" type="curve"/>
+      <point x="356" y="456"/>
+      <point x="412" y="406"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>
