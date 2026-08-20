@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.tab" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="539" y="0" type="line"/>
+      <point x="552" y="62" type="line"/>
+      <point x="145" y="62" type="line"/>
+      <point x="83" y="43" type="line"/>
+      <point x="74" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="623" y="514" type="curve"/>
+      <point x="623" y="615"/>
+      <point x="542" y="697"/>
+      <point x="427" y="697" type="curve"/>
+      <point x="300" y="697"/>
+      <point x="209" y="622"/>
+      <point x="171" y="473" type="curve"/>
+      <point x="236" y="458" type="line"/>
+      <point x="264" y="582"/>
+      <point x="338" y="637"/>
+      <point x="421" y="637" type="curve"/>
+      <point x="502" y="637"/>
+      <point x="551" y="583"/>
+      <point x="551" y="507" type="curve"/>
+      <point x="551" y="430"/>
+      <point x="503" y="376"/>
+      <point x="417" y="307" type="curve" smooth="yes"/>
+      <point x="83" y="43" type="line"/>
+      <point x="150" y="25" type="line"/>
+      <point x="456" y="260" type="line" smooth="yes"/>
+      <point x="544" y="329"/>
+      <point x="623" y="396"/>
+    </contour>
+  </outline>
+</glyph>

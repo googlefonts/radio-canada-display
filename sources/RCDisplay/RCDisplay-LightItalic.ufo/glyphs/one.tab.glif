@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.tab" format="2">
+  <advance width="600"/>
+  <note>
+Réduire masse dans connection
+</note>
+  <outline>
+    <contour>
+      <point x="508" y="0" type="line"/>
+      <point x="521" y="61" type="line"/>
+      <point x="109" y="61" type="line"/>
+      <point x="96" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="277" y="0" type="line"/>
+      <point x="346" y="0" type="line"/>
+      <point x="493" y="690" type="line"/>
+      <point x="443" y="690" type="line"/>
+      <point x="401" y="579" type="line"/>
+    </contour>
+    <contour>
+      <point x="212" y="526" type="line"/>
+      <point x="436" y="526" type="line"/>
+      <point x="443" y="690" type="line"/>
+      <point x="405" y="600"/>
+      <point x="373" y="584"/>
+      <point x="222" y="574" type="curve"/>
+    </contour>
+  </outline>
+</glyph>
