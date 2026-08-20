@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex.cap" format="2">
+  <advance width="500"/>
+  <anchor x="397" y="690" name="_top"/>
+  <outline>
+    <contour>
+      <point x="265" y="735" type="line"/>
+      <point x="332" y="735" type="line"/>
+      <point x="440" y="815" type="line"/>
+      <point x="440" y="841" type="line"/>
+      <point x="385" y="841" type="line"/>
+    </contour>
+    <contour>
+      <point x="547" y="735" type="line"/>
+      <point x="473" y="841" type="line"/>
+      <point x="417" y="841" type="line"/>
+      <point x="418" y="815" type="line"/>
+      <point x="487" y="735" type="line"/>
+    </contour>
+  </outline>
+</glyph>

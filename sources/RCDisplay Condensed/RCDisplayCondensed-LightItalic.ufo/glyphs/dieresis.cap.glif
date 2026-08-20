@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis.cap" format="2">
+  <advance width="500"/>
+  <anchor x="397" y="690" name="_top"/>
+  <outline>
+    <contour>
+      <point x="329" y="751" type="curve"/>
+      <point x="352" y="751"/>
+      <point x="370" y="768"/>
+      <point x="370" y="793" type="curve"/>
+      <point x="370" y="817"/>
+      <point x="355" y="831"/>
+      <point x="333" y="831" type="curve"/>
+      <point x="309" y="831"/>
+      <point x="292" y="814"/>
+      <point x="292" y="788" type="curve"/>
+      <point x="292" y="766"/>
+      <point x="307" y="751"/>
+    </contour>
+    <contour>
+      <point x="503" y="751" type="curve"/>
+      <point x="527" y="751"/>
+      <point x="544" y="768"/>
+      <point x="544" y="793" type="curve"/>
+      <point x="544" y="817"/>
+      <point x="529" y="831"/>
+      <point x="507" y="831" type="curve"/>
+      <point x="483" y="831"/>
+      <point x="466" y="814"/>
+      <point x="466" y="788" type="curve"/>
+      <point x="466" y="766"/>
+      <point x="481" y="751"/>
+    </contour>
+  </outline>
+</glyph>

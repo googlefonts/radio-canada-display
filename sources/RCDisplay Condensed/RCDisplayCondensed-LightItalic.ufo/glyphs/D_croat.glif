@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dcroat" format="2">
+  <advance width="452"/>
+  <unicode hex="0110"/>
+  <outline>
+    <contour>
+      <point x="107" y="373" type="line"/>
+      <point x="96" y="319" type="line"/>
+      <point x="284" y="319" type="line"/>
+      <point x="295" y="373" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="125" y="0" type="line"/>
+      <point x="272" y="690" type="line"/>
+      <point x="207" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="202" y="58" type="curve"/>
+      <point x="124" y="58" type="line"/>
+      <point x="111" y="0" type="line"/>
+      <point x="204" y="0" type="line"/>
+      <point x="396" y="0"/>
+      <point x="503" y="271"/>
+      <point x="503" y="498" type="curve"/>
+      <point x="503" y="629"/>
+      <point x="444" y="690"/>
+      <point x="340" y="690" type="curve"/>
+      <point x="258" y="690" type="line"/>
+      <point x="246" y="632" type="line"/>
+      <point x="335" y="632" type="line"/>
+      <point x="402" y="632"/>
+      <point x="436" y="595"/>
+      <point x="436" y="492" type="curve"/>
+      <point x="436" y="308"/>
+      <point x="345" y="58"/>
+    </contour>
+  </outline>
+</glyph>
