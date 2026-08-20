@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ring_acute.cap" format="2">
+  <advance width="497"/>
+  <anchor x="395" y="690" name="_top"/>
+  <outline>
+    <contour>
+      <point x="496" y="1015" type="line"/>
+      <point x="394" y="924" type="line"/>
+      <point x="486" y="924" type="line"/>
+      <point x="626" y="1015" type="line"/>
+    </contour>
+    <contour>
+      <point x="387" y="815" type="curve"/>
+      <point x="387" y="836"/>
+      <point x="404" y="854"/>
+      <point x="429" y="854" type="curve"/>
+      <point x="448" y="854"/>
+      <point x="458" y="843"/>
+      <point x="458" y="828" type="curve"/>
+      <point x="458" y="806"/>
+      <point x="442" y="788"/>
+      <point x="416" y="788" type="curve"/>
+      <point x="397" y="788"/>
+      <point x="387" y="799"/>
+    </contour>
+    <contour>
+      <point x="411" y="735" type="curve"/>
+      <point x="475" y="735"/>
+      <point x="519" y="778"/>
+      <point x="519" y="832" type="curve" smooth="yes"/>
+      <point x="519" y="877"/>
+      <point x="484" y="907"/>
+      <point x="434" y="907" type="curve"/>
+      <point x="370" y="907"/>
+      <point x="326" y="864"/>
+      <point x="326" y="810" type="curve" smooth="yes"/>
+      <point x="326" y="765"/>
+      <point x="361" y="735"/>
+    </contour>
+  </outline>
+</glyph>
