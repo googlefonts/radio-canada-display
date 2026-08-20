@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="napostrophe" format="2">
+  <advance width="653"/>
+  <unicode hex="0149"/>
+  <outline>
+    <contour>
+      <point x="221" y="0" type="line"/>
+      <point x="362" y="0" type="line"/>
+      <point x="362" y="530" type="line"/>
+      <point x="221" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="473" y="343" type="curve"/>
+      <point x="473" y="0" type="line"/>
+      <point x="614" y="0" type="line"/>
+      <point x="614" y="370" type="line"/>
+      <point x="614" y="478"/>
+      <point x="559" y="540"/>
+      <point x="478" y="540" type="curve"/>
+      <point x="393" y="540"/>
+      <point x="335" y="469"/>
+      <point x="335" y="343" type="curve"/>
+      <point x="362" y="343" type="line"/>
+      <point x="362" y="387"/>
+      <point x="386" y="410"/>
+      <point x="417" y="410" type="curve"/>
+      <point x="449" y="410"/>
+      <point x="473" y="387"/>
+    </contour>
+    <contour>
+      <point x="174" y="554" type="line" smooth="yes"/>
+      <point x="181" y="576"/>
+      <point x="185" y="595"/>
+      <point x="185" y="612" type="curve"/>
+      <point x="185" y="662"/>
+      <point x="151" y="700"/>
+      <point x="103" y="700" type="curve"/>
+      <point x="55" y="700"/>
+      <point x="20" y="665"/>
+      <point x="20" y="614" type="curve"/>
+      <point x="20" y="562"/>
+      <point x="55" y="527"/>
+      <point x="103" y="527" type="curve"/>
+      <point x="115" y="527"/>
+      <point x="127" y="528"/>
+      <point x="137" y="532" type="curve"/>
+      <point x="84" y="599" type="line"/>
+      <point x="45" y="389" type="line"/>
+      <point x="127" y="389" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1313,0.9997,0.0236,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_l" format="2">
+  <advance width="527"/>
+  <outline>
+    <contour>
+      <point x="207" y="558" type="line"/>
+      <point x="207" y="589"/>
+      <point x="222" y="609"/>
+      <point x="260" y="609" type="curve"/>
+      <point x="273" y="609"/>
+      <point x="289" y="607"/>
+      <point x="305" y="601" type="curve"/>
+      <point x="305" y="714" type="line"/>
+      <point x="280" y="721"/>
+      <point x="256" y="725"/>
+      <point x="229" y="725" type="curve"/>
+      <point x="125" y="725"/>
+      <point x="66" y="667"/>
+      <point x="66" y="552" type="curve"/>
+      <point x="66" y="0" type="line"/>
+      <point x="207" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="12" y="411" type="line"/>
+      <point x="300" y="411" type="line"/>
+      <point x="300" y="530" type="line"/>
+      <point x="12" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="347" y="0" type="line"/>
+      <point x="488" y="0" type="line"/>
+      <point x="488" y="715" type="line"/>
+      <point x="347" y="715" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1313,0.9997,0.0236,1</string>
+    </dict>
+  </lib>
+</glyph>

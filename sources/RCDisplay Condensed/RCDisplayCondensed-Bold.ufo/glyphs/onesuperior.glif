@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onesuperior" format="2">
+  <advance width="161"/>
+  <outline>
+    <contour>
+      <point x="52" y="384" type="line"/>
+      <point x="135" y="384" type="line"/>
+      <point x="135" y="690" type="line"/>
+      <point x="70" y="690" type="line"/>
+      <point x="52" y="596" type="line"/>
+    </contour>
+    <contour>
+      <point x="8" y="576" type="line"/>
+      <point x="79" y="576" type="line"/>
+      <point x="70" y="690" type="line"/>
+      <point x="63" y="654"/>
+      <point x="50" y="640"/>
+      <point x="8" y="633" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

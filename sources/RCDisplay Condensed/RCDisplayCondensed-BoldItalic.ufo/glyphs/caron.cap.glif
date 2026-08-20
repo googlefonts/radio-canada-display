@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caron.cap" format="2">
+  <advance width="500"/>
+  <anchor x="397" y="690" name="_top"/>
+  <outline>
+    <contour>
+      <point x="600" y="850" type="line"/>
+      <point x="476" y="850" type="line"/>
+      <point x="383" y="776" type="line"/>
+      <point x="383" y="735" type="line"/>
+      <point x="482" y="735" type="line"/>
+    </contour>
+    <contour>
+      <point x="262" y="850" type="line"/>
+      <point x="330" y="735" type="line"/>
+      <point x="431" y="735" type="line"/>
+      <point x="431" y="776" type="line"/>
+      <point x="372" y="850" type="line"/>
+    </contour>
+  </outline>
+</glyph>
