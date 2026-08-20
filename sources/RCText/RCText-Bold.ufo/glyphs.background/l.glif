@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l" format="2">
+  <advance width="300"/>
+  <anchor x="150.0" y="720.0" name="top"/>
+  <anchor x="150.0" y="0.0" name="bottom"/>
+  <anchor x="300.0" y="720.0" name="caron.alt"/>
+  <outline>
+    <contour>
+      <point x="75" y="0" type="line"/>
+      <point x="225" y="0" type="line"/>
+      <point x="225" y="735" type="line"/>
+      <point x="75" y="715" type="line"/>
+    </contour>
+  </outline>
+</glyph>
