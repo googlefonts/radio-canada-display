@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ldot" format="2">
+  <advance width="534"/>
+  <unicode hex="013F"/>
+  <outline>
+    <contour>
+      <point x="84" y="0" type="line"/>
+      <point x="153" y="0" type="line"/>
+      <point x="153" y="690" type="line"/>
+      <point x="84" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="124" y="61" type="line"/>
+      <point x="124" y="0" type="line"/>
+      <point x="506" y="0" type="line"/>
+      <point x="506" y="61" type="line"/>
+    </contour>
+    <contour>
+      <point x="381" y="293" type="curve"/>
+      <point x="409" y="293"/>
+      <point x="428" y="313"/>
+      <point x="428" y="339" type="curve"/>
+      <point x="428" y="366"/>
+      <point x="409" y="386"/>
+      <point x="381" y="386" type="curve"/>
+      <point x="354" y="386"/>
+      <point x="335" y="366"/>
+      <point x="335" y="339" type="curve"/>
+      <point x="335" y="313"/>
+      <point x="354" y="293"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1313,0.9997,0.0236,1</string>
+    </dict>
+  </lib>
+</glyph>
